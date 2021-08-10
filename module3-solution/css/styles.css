@@ -35,6 +35,13 @@ body{
   padding: 0;
 }
 
+
+h3 a:hover, h3 a:focus { 
+  font-family: 'Lora', sans-serif;
+  /*font-size: 1.3em;*/
+  font-weight: bold;
+  text-decoration:none;
+}
 .navbar-toggle{
 	border: 2px solid black;
 	margin-right: 25px;
